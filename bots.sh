@@ -45,7 +45,7 @@ LOGFILE="./logs/$NOW.log"
         {
             # set a timeout so that the job will fail if it has
             # been trying to run for more than 20 mins
-            timeout 20m python scraper.py &&
+            timeout --kill-after=2m 20m python scraper.py &&
             SUCCESS="${SUCCESS}Successfully ran $repo\n"
         } || {
             ERRORS="${ERRORS}Failed to run $repo\n"
