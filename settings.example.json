@@ -1,4 +1,4 @@
 {
-  "BASE_DIR": "/foo/bar/",
-  "VIRTUALENV": "/foo/bar"
+  "BASE_DIR": "/home/ubuntu/development/scraper-orchestration/",
+  "VIRTUALENV": "/home/ubuntu/.virtualenvs/py3-morph/bin/activate"
 }
