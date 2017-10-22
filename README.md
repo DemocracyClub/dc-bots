@@ -6,6 +6,7 @@ Orchestration script for running DC Slack and GitHub bots
 * `git clone https://github.com/DemocracyClub/dc-bots.git`
 * `cd dc-bots`
 * `sudo ./provision.sh` to configure the server
+* `./setupvenv.sh` to configure the virtual environment
 * `cp settings.example.json settings.json`
 * Set up any additional settings
 * Configure cron to run the bots e.g:
