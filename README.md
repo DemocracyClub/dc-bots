@@ -2,7 +2,7 @@
 
 Orchestration script for running DC Slack and GitHub bots
 
-* Spin up a `t2.nano` based on `ami-674cbc1e`
+* Spin up a `t2.nano`
 * `git clone https://github.com/DemocracyClub/dc-bots.git`
 * `cd dc-bots`
 * `sudo ./provision.sh` to configure the server
