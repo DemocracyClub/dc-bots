@@ -1,8 +1,7 @@
 [
-  "chris48s/OS-AddressBase-Releases-Scraper",
-  "chris48s/ONS-Geography-Releases-Scraper",
-  "chris48s/Ubuntu-AMI-Scraper",
-  "chris48s/open-data-scraper",
+  "DemocracyClub/OS-AddressBase-Releases-Scraper",
+  "DemocracyClub/ONS-Geography-Releases-Scraper",
+  "DemocracyClub/Ubuntu-AMI-Scraper",
   "DemocracyClub/womblr",
   "DemocracyClub/boundary-bot",
   "DemocracyClub/GDSRegisters",
