@@ -4,7 +4,7 @@
   "DemocracyClub/Ubuntu-AMI-Scraper",
   "DemocracyClub/boundary-bot",
   "DemocracyClub/GDSRegisters",
-  "DC-PollingStations-ArgyllAndBute",
+  "wdiv-scrapers/DC-PollingStations-ArgyllAndBute",
   "wdiv-scrapers/DC-PollingStations-Barnet",
   "wdiv-scrapers/DC-PollingStations-Bristol",
   "wdiv-scrapers/DC-PollingStations-Broxtowe",
