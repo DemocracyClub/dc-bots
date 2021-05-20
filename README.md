@@ -13,6 +13,6 @@ Orchestration script for running DC Slack and GitHub bots
 
 ```
 MAILTO="someone@example.com"
-1 */6 * * * cd /home/ubuntu/dc-bots/ && /home/ubuntu/dc-bots/bots.sh
+1 */6 * * * cd /home/ubuntu/dc-bots/ && git pull && /home/ubuntu/dc-bots/bots.sh
 10 10 1 * * cd /home/ubuntu/dc-bots/ && /home/ubuntu/dc-bots/prune_logs.sh
 ```
